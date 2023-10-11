@@ -1,6 +1,6 @@
 <h1>Olá😎👋</h1>
 
-- 👋 Oi, eu sou @GoddarkGD3(vinicius Marques)
+- 👋 Oi, eu sou @GoddarkGD3(Vinicius Marques)
 - 🌱Eu estou aprendendo Java Script
 - 📫 Como Falar comigo viniciusmv2kk@gmail.com
 
